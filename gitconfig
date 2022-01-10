@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = andrecoder.amc@gmail.com
+	name = Andrea Cosentino
